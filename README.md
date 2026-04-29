@@ -62,7 +62,7 @@ This step improves the baseline forecast by incorporating market and geopolitica
 
 The demand impact from Fuel Cell Electric Vehicle (FCEV) powertrains was incorporated into the regression model.
 
-This demand-side analysis helps estimate how increasing adoption of FCEV technologies influences the future prices of critical materials.
+This demand-side analysis helps estimate how increasing demand of FCEV technologies influences the future prices of critical materials.
 
 ---
 
@@ -79,7 +79,7 @@ The six WGI factors considered are:
 5. Rule of Law
 6. Control of Corruption
 
-These governance indicators help estimate geopolitical and supply-chain risks associated with material sourcing.
+These governance indicators help estimate geopolitical and supply-chain risks associated with material supply.
 
 ---
 
